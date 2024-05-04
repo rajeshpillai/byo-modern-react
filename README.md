@@ -4,4 +4,5 @@
 [X] - createElement
 [X] - simple mount
 [X] - simple render
-[ ] - attach events and attributes
+[X] - attach events and attributes
+[X] - props in function components needs to be passed down to root child

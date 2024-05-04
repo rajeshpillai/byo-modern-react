@@ -8,7 +8,8 @@ let Title = function (props) {
 
 let Step2 = (
   <div>
-    <h1 className="header">Hello Tiny React!</h1>
+     <Title class="header">Tiny React!</Title>
+    <h1 className="header">Hello Again!</h1>
     <h2>(coding nirvana)</h2>
     <div className="nested">nested 1<div>nested 1.1</div></div>
     <h3 style="background-color:yellow">(OBSERVE: I said it!!)</h3>
