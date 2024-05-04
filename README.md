@@ -6,3 +6,5 @@
 [X] - simple render
 [X] - attach events and attributes
 [X] - props in function components needs to be passed down to root child
+[X] - Rerender and remove old props
+[ ] - VDOM diffing
